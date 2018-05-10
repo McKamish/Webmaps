@@ -1,11 +1,14 @@
 TO DO:
 
 Needed packages: folium - Installed
-Find out why Atom terminal doesn't work
+Find out why Atom terminal doesn't work - reinstall fixed it
 
 git remote add origin https://github........
       this is the command needed to put local repo onto github
-      Do this tonight
+      Do this tonight - DONE
+
+git push -u origin master
+      This command pushes the local changes to github
 
 
 git diff HEAD
