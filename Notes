@@ -1,6 +1,6 @@
 TO DO:
 
-Needed packages: folium
+Needed packages: folium - Installed
 Find out why Atom terminal doesn't work
 
 git remote add origin https://github........
@@ -10,5 +10,3 @@ git remote add origin https://github........
 
 git diff HEAD
     shows differences between the current committed file and the working file that hasn't been committed yet.
-
-    
